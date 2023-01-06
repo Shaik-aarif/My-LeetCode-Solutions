@@ -18,6 +18,8 @@ Approach : 1.declare left = 0 and right as total sum of the array elements
 
             6. at last return -1 if not found any such index
 
+Time complexity : O(n)
+
 
 */
 
