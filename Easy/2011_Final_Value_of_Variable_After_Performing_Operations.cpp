@@ -13,7 +13,7 @@ Approach : 1. traverse through the vector
             2.declare int x = 0
             3. if element is x-- or --x decrement
                     else increment
-            4. return int x
+            4. return int x.
 */
 
 class Solution
