@@ -24,7 +24,7 @@ public:
         string a = s.substr(0,s.size()/2);
         string b = s.substr((s.size()/2) ,s.size()/2);
        
-       1704_Determine_if_String_Halves_Are_Alike
+      
         
 
         if( VowelCount(a) ==  VowelCount(b)){
